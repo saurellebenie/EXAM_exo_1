@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: black;
+}
+
+.main,
+.container-main{
+    margin: 0 auto;
+    width: 50%;
+    border: 2px solid rgb(29, 24, 24);
+    padding: 20px;
+}
+
+table{
+    width: 100%;
+    margin-top: 2rem;
+}
+
+.add-button{
+    padding: 5px;
+    border: 1px solid black;
+    margin-top: 40px;
+    float: right;
+    border-radius: 10%;
+    background: rgb(206, 53, 43);
+    border: none;
+}
